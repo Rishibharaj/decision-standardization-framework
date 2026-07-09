@@ -64,7 +64,7 @@ A deterministic classification engine based on:
 
 Read more:
 
-➡️ ./v1-rule-based-classification.md
+➡️ ./Phase1-rule-based-classification.md
 
 ---
 
