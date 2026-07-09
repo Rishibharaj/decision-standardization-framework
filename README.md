@@ -1,3 +1,12 @@
+## Scale
+
+- 89,000+ Communications Reviewed
+- 20,000 Audited Samples
+- 45 Classification Categories
+- 692 Optimized Keywords
+- 95%–99% Statistical Confidence Levels
+
+The framework was developed to support quality, operations, and decision consistency in high-volume correspondence environments.
 # Decision Intelligence Framework
 
 A lightweight, auditable framework for converting unstructured communications into standardized business decisions using deterministic logic, rule hierarchies, and statistical validation.
