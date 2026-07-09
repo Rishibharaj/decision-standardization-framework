@@ -1,10 +1,12 @@
-## Scale
+## At a Glance
 
-- 89,000+ Communications Reviewed
-- 20,000 Audited Samples
-- 45 Classification Categories
-- 692 Optimized Keywords
-- 95%–99% Statistical Confidence Levels
+| Metric | Value |
+|----------|----------|
+| Communications Reviewed | 89,000+ |
+| Audited Samples | 20,000 |
+| Categories | 45 |
+| Keywords | 692 |
+| Confidence Levels | 95%–99% |
 
 The framework was developed to support quality, operations, and decision consistency in high-volume correspondence environments.
 # Decision Intelligence Framework
