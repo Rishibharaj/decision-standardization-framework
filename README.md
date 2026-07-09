@@ -3,12 +3,19 @@
 A lightweight, auditable framework for converting unstructured communications into standardized business decisions.
 
 ## Core Philosophy
+
 Messy Inputs
+
 ↓
+
 Standardized Logic
+
 ↓
+
 Consistent Decisions
+
 ↓
+
 Automation Opportunity
 
 ---
