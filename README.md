@@ -1,3 +1,7 @@
+# Decision Intelligence Framework
+
+A lightweight, auditable framework for converting unstructured communications into standardized business decisions using deterministic logic, rule hierarchies, and statistical validation.
+
 ## At a Glance
 
 | Metric | Value |
@@ -8,32 +12,9 @@
 | Keywords | 692 |
 | Confidence Levels | 95%–99% |
 
-The framework was developed to support quality, operations, and decision consistency in high-volume correspondence environments.
-# Decision Intelligence Framework
-
-A lightweight, auditable framework for converting unstructured communications into standardized business decisions using deterministic logic, rule hierarchies, and statistical validation.
-
 ---
 
-## Core Principle
-
-Messy Inputs
-
-↓
-
-Standardized Logic
-
-↓
-
-Consistent Decisions
-
-↓
-
-Automation Opportunity
-
----
-
-## Project Overview
+## The Challenge
 
 Consumer-facing operations process large volumes of:
 
@@ -43,85 +24,73 @@ Consumer-facing operations process large volumes of:
 
 Without standardization, different reviewers may reach different conclusions from the same communication.
 
-This framework was designed to improve:
-
-- Consistency
-- Auditability
-- Explainability
-- Decision Quality
-- Operational Scalability
-
 ---
 
-## Framework Evolution
-
-### Phase 1: Rule-Based Classification
-
-A deterministic classification engine based on:
-
-- Keyword detection
-- Category mapping
-- Precedence rules
-- Outcome generation
+## Framework Overview
 
 Unstructured Communications
-            ↓
-      Keyword Mapping
-            ↓
-     Category Detection
-            ↓
-     Precedence Engine
-            ↓
-     Outcome Generation
-            ↓
-    Statistical Validation
-            ↓
-      Business Action
-      
-Read more:
-➡️ ./Phase1-rule-based-classification.md
+↓
+Keyword Mapping
+↓
+Category Detection
+↓
+Precedence Engine
+↓
+Outcome Generation
+↓
+Statistical Validation
+↓
+Consistent Business Decisions
 
 ---
 
-### Validation Layer
+## Phase 1 – Rule-Based Decision Framework
 
-The framework incorporates statistical sampling and quality validation to measure consistency and reliability.
+Phase 1 introduced a deterministic classification framework incorporating:
 
-Read more:
+- Keyword Detection
+- Category Mapping
+- Precedence Rules
+- Outcome Generation
+- Keyword Optimization
+- Statistical Validation
 
-➡️ ./sampling-validation.md
+📖 Read more:
+- Phase 1 Documentation
+- Sampling & Validation
+- Keyword Optimization
+- Governance Principles
 
 ---
 
 ## Key Design Principles
 
-### Explainability
+- Explainability
+- Auditability
+- Consistency
+- Governance
 
-Every output should be traceable to identified rules and keywords.
+---
 
-### Auditability
+## Key Learning
 
-Decisions should be reproducible and reviewable.
+Before automation becomes possible, decisions must become predictable.
 
-### Consistency
-
-Identical inputs should generate identical outputs.
-
-### Governance
-
-Rules should be transparent and manageable.
+Messy Inputs
+↓
+Standardized Logic
+↓
+Consistent Decisions
+↓
+Automation Opportunity
 
 ---
 
 ## Future Evolution
 
-Planned areas of expansion:
+Phase 2 – Intent Detection
 
-- Intent Detection
-- Context Awareness
-- Confidence Scoring
-- Search Intelligence Integration
-- Workflow Automation
+Expanding beyond keyword detection to evaluate context, negations, modifiers, and semantic intent.
 
 ---
 
