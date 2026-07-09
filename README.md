@@ -53,7 +53,7 @@ This framework was designed to improve:
 
 ## Framework Evolution
 
-### Version 1: Rule-Based Classification
+### Phase 1: Rule-Based Classification
 
 A deterministic classification engine based on:
 
