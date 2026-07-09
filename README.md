@@ -62,6 +62,7 @@ A deterministic classification engine based on:
 - Precedence rules
 - Outcome generation
 
+Unstructured Communication │ ▼ Keyword Mapping │ ▼ Category Detection │ ▼ Precedence Rules │ ▼ Outcome Generation │ ▼ Statistical Validation │ ▼ Business Action
 Read more:
 
 ➡️ ./Phase1-rule-based-classification.md
