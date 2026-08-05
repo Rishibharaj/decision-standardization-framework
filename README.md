@@ -1,6 +1,8 @@
 # Decision Intelligence Framework
 
-A lightweight, auditable framework for converting unstructured communications into standardized business decisions using deterministic logic, rule hierarchies, and statistical validation.
+An enterprise decision intelligence framework designed to transform unstructured customer communications into consistent, auditable operational decisions.
+
+Built and validated using 89,000+ consumer correspondences, the framework combines correspondence intelligence, decision rules, governance controls, and statistical validation to improve consistency, transparency, and operational effectiveness in restricted environments.
 
 ## At a Glance
 
