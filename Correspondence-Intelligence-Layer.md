@@ -2,7 +2,7 @@
 
 ## Objective
 
-Create a repeatable and auditable method for classifying consumer communications in restricted environments using deterministic rule-based logic.
+Create a repeatable and auditable method for converting unstructured consumer communications into consistent operational decisions within restricted environments using deterministic business rules and governance controls.
 
 ---
 
