@@ -16,7 +16,6 @@ Built and validated using 89,000+ consumer correspondences, the framework combin
 
 ---
 ## Framework Layers
-
 architecture/01-enterprise-overview.png
 
 ### 1. Correspondence Intelligence
@@ -123,7 +122,6 @@ Expanding beyond keyword detection to evaluate context, negations, modifiers, an
 ## Author
 
 Rishi Bharaj
-
 PMP® | Oracle GenAI Professional | ISO 9001 Lead Auditor
 
 Operations Transformation | Decision Intelligence | Process Standardization
