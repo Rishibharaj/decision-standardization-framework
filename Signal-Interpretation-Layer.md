@@ -1,4 +1,4 @@
-# Correspondence Intelligence Layer
+# Signal-Interpretation-Layer
 
 ![Correspondence Intelligence](architecture/02-correspondence-intelligence.png)
 
