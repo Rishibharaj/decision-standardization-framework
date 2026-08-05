@@ -74,11 +74,16 @@ Phase 1 established the framework's correspondence intelligence capability throu
 - Signal Optimization
 - Statistical Validation
 
-📖 Read more:
-- Phase 1 Documentation
-- Sampling & Validation
-- Keyword Optimization
+📖 Explore the Framework
+
+- framework-architecture.md
+- Correspondence-Intelligence-Layer.md
+- Decision Intelligence Engine
+- Validation-and-Governance.md
 - Governance Principles
+- Signal-Optimization.md
+- Case-Study-Correspondence-Classification.md
+
 
 ---
 
