@@ -4,7 +4,7 @@ Customer-facing operations often depend on human interpretation when reviewing c
 
 This framework was developed to standardize decision-making across unstructured communication channels by converting subjective interpretation into explicit decision logic, governance controls, and validation mechanisms.
 
-Developed through analysis of 89,000+ consumer correspondences and validated using 20,000 audited samples, the framework provides a structured approach for creating consistent, auditable, and repeatable operational decisions in restricted environments.
+Developed through analysis of 89,000+ consumer correspondences and validated using 20,000 audited samples, the framework provides a structured approach for reducing interpretation variability and creating consistent, auditable, and repeatable operational decisions in restricted environments.
 
 ## At a Glance
 
@@ -13,7 +13,7 @@ Developed through analysis of 89,000+ consumer correspondences and validated usi
 | Communications Analyzed | 89,000+ |
 | Audited Samples | 20,000 |
 | Communication Channels | Letters, Emails, SMS |
-| Decision Categories | 45 |
+| Standardized Decision Scenarios | 45 |
 | Validation Confidence | 95%-99% |
 | Primary Objective | Decision Consistency |
 
@@ -62,25 +62,15 @@ The core challenge was ensuring that the same decision would be reached regardle
 ## Framework Overview
 
 Unstructured Communications
-
 ↓
-
 Signal Interpretation
-
 ↓
-
-Decision Intelligence
-
+Decision Logic
 ↓
-
 Governance & Validation
-
 ↓
-
 Operational Outcomes
-
 ↓
-
 Consistent Business Decisions
 
 ---
