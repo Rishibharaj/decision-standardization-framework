@@ -95,15 +95,11 @@ Capabilities included:
 
 [Signal Interpretation Layer](../Signal-Interpretation-Layer.md)
 
-[Decision Engine](../Decision_Engine.md)
+[Decision Logic Layer](../Decision-Logic-Layer.md)
 
 [Validation and Governance](../Validation-and-Governance.md)
 
-[Governance Principles](../governance.md)
-
-[Signal Optimization](../Signal-Optimization.md)
-
-[Case Study Correspondence Classification](../Case-Study-Correspondence-Classification.md)
+[Case Study Correspondence Classification](../Case Study – Achieving-Consistent Decisions from Unstructured Communications.md)
 
 
 ---
