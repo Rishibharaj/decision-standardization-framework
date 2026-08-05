@@ -36,9 +36,9 @@ This layer determines:
 
 ## Step 3: Conflict Resolution
 
-Where multiple categories are detected, precedence rules determine which outcome best represents the consumer's request.
+Where multiple decision-relevant signals are identified, precedence rules determine which outcome best represents the consumer's request.
 
-Example:
+Examples of Decision Signals:
 
 Consumer Input:
 
