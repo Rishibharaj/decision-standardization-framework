@@ -1,4 +1,5 @@
 # Decision Intelligence Engine
+![Decesion Intelligence](architecture/03-decision-engine.png)
 
 The Decision Intelligence Engine converts correspondence insights into consistent business decisions by applying policy rules, precedence logic, and operational governance.
 
