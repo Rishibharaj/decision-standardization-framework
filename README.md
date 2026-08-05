@@ -43,7 +43,19 @@ Supports routing, escalation, compliance activities, reporting, and future autom
 ---
 ## The Challenge
 
-Consumer-facing operations frequently depend on individual interpretation when reviewing customer communications. This can lead to inconsistent decisions, increased compliance risk, audit complexity, and variations in customer outcomes.
+Consumer communications arrive in many forms, including formal letters, detailed emails, and short SMS messages. Although customers may be expressing the same underlying concern, differences in language, context, and communication style can lead to different interpretations.
+
+As a result, operational decisions may become dependent on individual reviewer judgement rather than standardized criteria, creating:
+
+- Interpretation variability
+- Inconsistent customer outcomes
+- Quality assurance challenges
+- Increased audit effort
+- Compliance and governance risks
+
+The core challenge was not processing communications.
+
+The core challenge was ensuring that the same decision would be reached regardless of who reviewed the communication.
 
 ---
 
@@ -73,14 +85,16 @@ Consistent Business Decisions
 
 ---
 
-## Phase 1 – Signal Interpretation Layer
+## Phase 1 – Signal Interpretation
 
-Phase 1 established the framework's Signal Interpretation capability through:
+Phase 1 established the framework's ability to identify and structure decision-relevant signals from unstructured communications.
+
+Capabilities included:
 
 - Signal Detection
 - Category Mapping
-- Decision Resolution Rules
-- Outcome Generation
+- Decision Rule Support
+- Outcome Determination
 - Signal Optimization
 - Statistical Validation
 
@@ -113,17 +127,23 @@ Phase 1 established the framework's Signal Interpretation capability through:
 
 ---
 
-## Key Learning
+## Framework Principle
 
-Before automation becomes possible, decisions must become predictable.
+Operational automation is only effective when decision-making is consistent.
+
+Customer communications often contain varying levels of detail, context, and language. Before automation can be introduced, the underlying decision process must first be standardized, validated, and governed.
+
+This framework was built on a simple principle:
 
 Messy Inputs
 ↓
-Standardized Logic
+Structured Signals
 ↓
-Consistent Decisions
+Standardized Decision Logic
 ↓
-Automation Opportunity
+Consistent Outcomes
+↓
+Automation Readiness
 
 ---
 
@@ -134,10 +154,19 @@ Phase 2 – Intent Detection
 Expanding beyond keyword detection to evaluate context, negations, modifiers, and semantic intent.
 
 ---
+## About This Framework
 
+This framework was developed to address a common operational challenge: ensuring consistent business decisions from unstructured customer communications.
+
+The objective was not to automate correspondence review, but to first standardize the decision-making process through explicit rules, governance controls, validation methods, and outcome hierarchies.
+
+The resulting framework demonstrates how predictable decisions can be established in restricted environments before introducing large-scale automation initiatives.
+
+---
 ## Author
 
-Rishi Bharaj
+**Rishi Bharaj**
+
 PMP® | Oracle GenAI Professional | ISO 9001 Lead Auditor
 
-Operations Transformation | Decision Intelligence | Process Standardization
+Experienced in operational transformation, quality governance, decision standardization, and process improvement initiatives focused on creating scalable, auditable, and consistent business outcomes.
