@@ -1,4 +1,5 @@
 # Validation and Governance
+![Validation and Governance](architecture/04-governance-framework.png)
 
 A decision intelligence framework is only valuable if its outcomes remain consistent, measurable, and auditable over time.
 
