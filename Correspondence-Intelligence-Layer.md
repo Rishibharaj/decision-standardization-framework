@@ -1,4 +1,6 @@
-## Correspondence-Intelligence-Layer
+# Correspondence Intelligence Layer
+
+![Correspondence Intelligence](architecture/02-correspondence-intelligence.png)
 
 ## Objective
 
