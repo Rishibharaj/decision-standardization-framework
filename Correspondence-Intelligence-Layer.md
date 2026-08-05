@@ -5,7 +5,15 @@
 Create a repeatable and auditable method for converting unstructured consumer communications into consistent operational decisions within restricted environments using deterministic business rules and governance controls.
 
 ---
+## At a Glance
 
+- 89,000+ communications reviewed
+- 20,000 audited samples
+- 45 decision categories
+- 692 optimized keywords
+- 95%-99% confidence validation
+
+---
 ## Business Challenge
 
 Consumer-facing operations process large volumes of:
@@ -33,7 +41,7 @@ The goal was to standardize decision-making while maintaining transparency and a
 - Email Correspondence
 - SMS Correspondence
 
-### Framework Size
+### Implementation Scale
 
 - 45 Categories
 - 692 Optimized Keywords
@@ -46,9 +54,9 @@ The goal was to standardize decision-making while maintaining transparency and a
 
 The framework follows four decision layers.
 
-### Layer 1 – Keyword Mapping
+### Layer 1 – Correspondence Signal Identification
 
-Keywords are mapped to predefined categories.
+Relevant consumer signals are identified within communications using predefined keyword structures and category mappings.
 
 Example:
 
@@ -70,24 +78,31 @@ Multiple categories may be activated simultaneously.
 
 ---
 
-### Layer 3 – Precedence Rules
+### Layer 3 – Decision Resolution
 
-When multiple categories are detected, predefined business rules determine which outcome takes priority.
+When multiple business signals are detected, decision hierarchies determine which outcome best represents the consumer's intent and operational requirement.
 
-Example:
+#### Decision Resolution Example
 
-"Do not call me"
+Consumer Statement:
 
-and
+"Do not call me and do not contact me again."
 
-"Do not contact me"
+Detected Categories:
 
-Both activate communication restrictions.
+- Call Suppression
+- Full Contact Restriction
 
-The broader communication restriction receives higher precedence.
+Decision Hierarchy:
+
+Full Contact Restriction supersedes Call Suppression because it represents a broader withdrawal of communication consent.
+
+Final Outcome:
+
+Non-Engagement Directive
 
 ---
 
-### Layer 4 – Outcome Generation
+### Layer 4 – Decision Outcome
 
 The highest-precedence category becomes the final outcome.
