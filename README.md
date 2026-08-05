@@ -47,17 +47,25 @@ Without standardization, different reviewers may reach different conclusions fro
 ## Framework Overview
 
 Unstructured Communications
+
 ↓
-Keyword Mapping
+
+Correspondence Intelligence
+
 ↓
-Category Detection
+
+Decision Intelligence
+
 ↓
-Precedence Engine
+
+Governance & Validation
+
 ↓
-Outcome Generation
+
+Operational Outcomes
+
 ↓
-Statistical Validation
-↓
+
 Consistent Business Decisions
 
 ---
