@@ -1,9 +1,24 @@
-# Validation-and-Governance
+# Validation and Governance
 
-A classification framework is only valuable if its performance can be measured.
+A decision intelligence framework is only valuable if its outcomes remain consistent, measurable, and auditable over time.
+
+The Validation and Governance layer provides statistical assurance that decision outcomes remain stable across communication channels, categories, and review cycles.
 
 ---
+## Why Governance Matters
 
+Operational decisions must be:
+
+- Consistent
+- Explainable
+- Repeatable
+- Auditable
+
+Without governance controls, identical communications may produce different outcomes depending on reviewer interpretation.
+
+The framework reduces this variability by validating outcomes through structured sampling and statistical review.
+
+---
 ## Population
 
 - 89,000+ Communications
@@ -34,7 +49,7 @@ A classification framework is only valuable if its performance can be measured.
 
 ---
 
-## Validation Metrics
+## Governance Metrics
 
 The framework used:
 
@@ -45,7 +60,19 @@ The framework used:
 to evaluate consistency across samples and input channels.
 
 ---
+## Governance Activities
 
+The framework incorporates:
+
+- Audit sampling
+- Confidence analysis
+- Variance monitoring
+- Outcome verification
+- Feedback-driven refinement
+
+These controls ensure that decision outcomes remain reliable as correspondence volumes and category definitions evolve over time.
+
+---
 ## Objective
 
 Measure whether classification outcomes remained stable and repeatable across multiple audits.
