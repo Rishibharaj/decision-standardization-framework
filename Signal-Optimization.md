@@ -1,4 +1,4 @@
-# Keyword Optimization Framework
+# Signal Optimization Framework
 
 Classification quality is heavily dependent on keyword quality.
 
