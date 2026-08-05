@@ -33,13 +33,7 @@ Supports routing, escalation, compliance, and reporting.
 ---
 ## The Challenge
 
-Consumer-facing operations process large volumes of:
-
-- Emails
-- SMS Messages
-- Written Correspondence
-
-Without standardization, different reviewers may reach different conclusions from the same communication.
+Consumer-facing operations frequently depend on individual interpretation when reviewing customer communications. This can lead to inconsistent decisions, increased compliance risk, audit complexity, and variations in customer outcomes.
 
 ---
 
@@ -69,15 +63,15 @@ Consistent Business Decisions
 
 ---
 
-## Phase 1 – Rule-Based Decision Framework
+## Phase 1 – Correspondence Intelligence Layer
 
-Phase 1 introduced a deterministic classification framework incorporating:
+Phase 1 established the framework's correspondence intelligence capability through:
 
-- Keyword Detection
+- Signal Detection
 - Category Mapping
-- Precedence Rules
+- Decision Resolution Rules
 - Outcome Generation
-- Keyword Optimization
+- Signal Optimization
 - Statistical Validation
 
 📖 Read more:
