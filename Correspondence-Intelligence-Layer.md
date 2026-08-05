@@ -1,4 +1,4 @@
-## Correspondence-Intelligence-Layer.md
+## Correspondence-Intelligence-Layer
 
 ## Objective
 
