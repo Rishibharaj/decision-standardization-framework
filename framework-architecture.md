@@ -2,6 +2,7 @@
 
 The Decision Intelligence Framework transforms unstructured customer communications into consistent, auditable operational decisions through four interconnected layers.
 
+architecture/01-enterprise-overview.png
 ---
 
 ## Layer 1: Correspondence Intelligence
