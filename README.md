@@ -19,7 +19,7 @@ Built and validated using 89,000+ consumer correspondences, the framework combin
 
 architecture/01-enterprise-overview.png
 
-###1. Correspondence Intelligence
+### 1. Correspondence Intelligence
    Converts unstructured communications into structured signals.
 
 2. Decision Intelligence
