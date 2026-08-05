@@ -1,31 +1,93 @@
 # Framework Architecture
 
-The classification framework operates through four decision layers.
+The Decision Intelligence Framework transforms unstructured customer communications into consistent, auditable operational decisions through four interconnected layers.
 
-## Layer 1: Keyword Mapping
+---
 
-Input communications are evaluated for matching keywords.
+## Layer 1: Correspondence Intelligence
 
-↓
+Consumer communications are analyzed to identify relevant signals, themes, requests, and business-relevant indicators.
 
-## Layer 2: Category Detection
+Examples include:
 
-Matching keywords activate predefined correspondence categories.
+- Payment disputes
+- Communication restrictions
+- Documentation requests
+- Account inquiries
+- Complaint indicators
 
-↓
+Output:
 
-## Layer 3: Precedence Engine
-
-Business rules resolve category conflicts.
-
-↓
-
-## Layer 4: Outcome Generation
-
-The highest-priority category becomes the final classification.
+Structured correspondence categories.
 
 ↓
 
-## Validation Layer
+## Layer 2: Decision Intelligence
 
-Sampling and audit processes validate consistency and reliability.
+Detected categories are evaluated using business rules, policy requirements, and decision hierarchies.
+
+This layer determines:
+
+- Priority
+- Escalation requirements
+- Conflict resolution
+- Rule precedence
+
+Output:
+
+Recommended business decision.
+
+↓
+
+## Layer 3: Governance & Validation
+
+Outputs are subjected to sampling, audit reviews, confidence analysis, and variance assessment to ensure consistency and reliability.
+
+Activities include:
+
+- Statistical validation
+- Quality control audits
+- Confidence measurement
+- Continuous refinement
+
+Output:
+
+Validated decision outcomes.
+
+↓
+
+## Layer 4: Operational Outcomes
+
+Validated decisions support downstream operational processes including:
+
+- Case routing
+- Escalation workflows
+- Consumer preference management
+- Compliance controls
+- Operational reporting
+
+Output:
+
+Consistent and auditable operational actions.
+
+---
+
+## Framework Principle
+
+Unstructured Communication
+
+↓
+
+Correspondence Intelligence
+
+↓
+
+Decision Intelligence
+
+↓
+
+Governance & Validation
+
+↓
+
+Operational Outcome
