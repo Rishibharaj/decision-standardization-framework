@@ -15,7 +15,21 @@ Built and validated using 89,000+ consumer correspondences, the framework combin
 | Confidence Levels | 95%–99% |
 
 ---
+## Framework Layers
 
+1. Correspondence Intelligence
+   Converts unstructured communications into structured signals.
+
+2. Decision Intelligence
+   Applies business rules and decision hierarchies.
+
+3. Governance & Validation
+   Measures consistency and reliability.
+
+4. Operational Outcomes
+   Enables repeatable business actions.
+
+---
 ## The Challenge
 
 Consumer-facing operations process large volumes of:
