@@ -17,7 +17,9 @@ Built and validated using 89,000+ consumer correspondences, the framework combin
 ---
 ## Framework Layers
 
-![Framework Overview](architecture/01-enterprise-overviewdence Intelligence
+architecture/01-enterprise-overview.png
+
+### 1. Correspondence Intelligence
 Converts unstructured communications into structured signals and categories.
 
 ### 2. Decision Intelligence
