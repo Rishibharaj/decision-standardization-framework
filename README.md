@@ -17,19 +17,17 @@ Built and validated using 89,000+ consumer correspondences, the framework combin
 ---
 ## Framework Layers
 
-architecture/01-enterprise-overview.png
+![Framework Overview](architecture/01-enterprise-overviewdence Intelligence
+Converts unstructured communications into structured signals and categories.
 
-### 1. Correspondence Intelligence
-   Converts unstructured communications into structured signals.
+### 2. Decision Intelligence
+Applies business rules, decision hierarchies, and conflict resolution logic.
 
-2. Decision Intelligence
-   Applies business rules and decision hierarchies.
+### 3. Governance & Validation
+Measures consistency, confidence, and reliability through audits.
 
-3. Governance & Validation
-   Measures consistency and reliability.
-
-4. Operational Outcomes
-   Enables repeatable business actions.
+### 4. Operational Outcomes
+Supports routing, escalation, compliance, and reporting.
 
 ---
 ## The Challenge
