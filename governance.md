@@ -1,41 +1,91 @@
 # Governance Principles
 
-The Decision Intelligence Framework was intentionally designed to ensure that operational decisions remain transparent, auditable, consistent, and explainable across large volumes of communications.
+The Decision Standardization Framework is founded on governance principles designed to promote consistency, transparency, auditability, and operational trust.
 
-These principles support reliable decision-making while reducing dependence on individual reviewer interpretation.
-
----
-
-## Explainability
-
-Every decision outcome can be traced back to the underlying business rules, category mappings, and decision hierarchies that generated it.
+These principles ensure that decisions remain explainable, repeatable, and aligned with business objectives.
 
 ---
 
-## Auditability
+## 1. Consistency
 
-All decision paths can be reviewed, validated, and challenged using documented logic and supporting evidence.
-
----
-
-## Consistency
-
-Identical inputs produce identical outcomes, reducing variability across reviewers, teams, and operational functions.
+Similar communications should result in similar outcomes regardless of reviewer interpretation.
 
 ---
 
-## Maintainability
+## 2. Explainability
 
-Rules, categories, and decision hierarchies can be updated without redesigning the overall framework.
-
----
-
-## Transparency
-
-Users can understand how outcomes were generated and what factors influenced the final decision.
+Every outcome should be traceable to identifiable signals, decision logic, and governance controls.
 
 ---
 
-## Governance Objective
+## 3. Auditability
 
-Transform subjective interpretation into governed and repeatable operational decision-making.
+Decisions should be independently reviewable and supported by documented logic and validation evidence.
+
+---
+
+## 4. Transparency
+
+Decision criteria, precedence rules, and escalation pathways should be clearly defined and accessible.
+
+---
+
+## 5. Continuous Refinement
+
+Decision logic should evolve based on operational feedback, audit findings, and emerging business requirements.
+
+---
+
+## 6. Automation Readiness
+
+Decision processes should be standardized before automation is introduced.
+
+---
+
+## Core Insight
+
+Governance does not restrict decision-making.
+
+Governance ensures that decision-making remains predictable, measurable, and trustworthy at scale.
+
+---
+# Key Learnings
+
+## Learning 1
+
+Technology was the easy part.
+
+Creating consistency was the difficult part.
+
+---
+
+## Learning 2
+
+Consumers express the same intent in many different ways.
+
+Decision quality depends on interpretation consistency, not communication format.
+
+---
+
+## Learning 3
+
+Before automation becomes possible, decisions must become predictable.
+
+---
+
+## Learning 4
+
+Governance is not an activity performed after implementation.
+
+Governance is part of the decision framework itself.
+
+---
+
+## Learning 5
+
+The most scalable processes are not those with the most automation.
+
+They are those with the most consistent decision logic.
+
+---
+
