@@ -99,7 +99,7 @@ Capabilities included:
 
 [Validation and Governance](../Validation-and-Governance.md)
 
-[Case Study Correspondence Classification](../Case Study – Achieving-Consistent Decisions from Unstructured Communications.md)
+[Case Study Correspondence Classification](../Case Study – Achieving Consistent Decisions from Unstructured Communications.md)
 
 
 ---
