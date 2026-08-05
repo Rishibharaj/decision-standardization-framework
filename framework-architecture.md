@@ -1,13 +1,31 @@
 # Framework Architecture
 
-The Decision Intelligence Framework transforms unstructured customer communications into consistent, auditable operational decisions through four interconnected layers.
+The Decision Standardization Framework transforms unstructured customer communications into consistent, auditable, and repeatable business decisions through five interconnected layers.
 
-architecture/01-enterprise-overview.png
+(../01-enterprise-overview.png)
+
 ---
 
-## Layer 1: Correspondence Intelligence
+## Layer 1: Decision Standardization
 
-Consumer communications are analyzed to identify relevant signals, themes, requests, and business-relevant indicators.
+Defines the criteria, rules, governance principles, and outcome requirements needed to ensure that similar communications lead to consistent decisions regardless of reviewer interpretation.
+
+Activities include:
+
+- Defining decision criteria
+- Establishing outcome hierarchies
+- Setting governance requirements
+- Standardizing decision pathways
+
+Output:
+
+Standardized decision framework.
+
+↓
+
+## Layer 2: Signal Interpretation
+
+Consumer communications are analyzed to identify decision-relevant signals, themes, requests, and business indicators.
 
 Examples include:
 
@@ -19,53 +37,55 @@ Examples include:
 
 Output:
 
-Structured correspondence categories.
+Structured decision signals.
 
 ↓
 
-## Layer 2: Decision Intelligence
+## Layer 3: Decision Logic
 
-Detected categories are evaluated using business rules, policy requirements, and decision hierarchies.
+Structured signals are evaluated using business rules, decision hierarchies, precedence rules, and conflict resolution mechanisms.
 
 This layer determines:
 
-- Priority
+- Decision priority
 - Escalation requirements
-- Conflict resolution
 - Rule precedence
+- Outcome selection
 
 Output:
 
-Recommended business decision.
+Consistent decision outcome.
 
 ↓
 
-## Layer 3: Governance & Validation
+## Layer 4: Governance & Validation
 
-Outputs are subjected to sampling, audit reviews, confidence analysis, and variance assessment to ensure consistency and reliability.
+Decision outcomes are subjected to audit reviews, sampling methodology, confidence analysis, and variance assessment to ensure reliability and consistency.
 
 Activities include:
 
 - Statistical validation
-- Quality control audits
+- Quality assurance reviews
 - Confidence measurement
+- Variance analysis
 - Continuous refinement
 
 Output:
 
-Validated decision outcomes.
+Validated and auditable decisions.
 
 ↓
 
-## Layer 4: Operational Outcomes
+## Layer 5: Operational Outcomes
 
-Validated decisions support downstream operational processes including:
+Validated decisions support downstream operational activities including:
 
 - Case routing
 - Escalation workflows
 - Consumer preference management
-- Compliance controls
+- Compliance monitoring
 - Operational reporting
+- Automation readiness
 
 Output:
 
@@ -75,15 +95,15 @@ Consistent and auditable operational actions.
 
 ## Framework Principle
 
-Unstructured Communication
+Unstructured Communications
 
 ↓
 
-Correspondence Intelligence
+Signal Interpretation
 
 ↓
 
-Decision Intelligence
+Decision Logic
 
 ↓
 
@@ -91,4 +111,18 @@ Governance & Validation
 
 ↓
 
-Operational Outcome
+Operational Outcomes
+
+↓
+
+Consistent Business Decisions
+
+---
+
+## Core Insight
+
+The objective of the framework is not classification.
+
+Classification is an enabling capability used to support standardized decision-making.
+
+The primary objective is to reduce interpretation variability, improve consistency, and establish the predictability required for scalable automation.
