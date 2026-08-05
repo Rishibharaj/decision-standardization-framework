@@ -2,7 +2,7 @@
 
 The Decision Standardization Framework transforms unstructured customer communications into consistent, auditable, and repeatable business decisions through five interconnected layers.
 
-(../01-enterprise-overview.png)
+![Framework architecture](architecture/01-enterprise-overview.png)
 
 ---
 
