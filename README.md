@@ -1,38 +1,44 @@
 # Decision Standardization Framework
 
-A framework for transforming unstructured customer communications into
-consistent, auditable business decisions.
+Customer-facing operations often depend on human interpretation when reviewing consumer communications. Different reviewers may reach different conclusions from the same correspondence, creating inconsistency, audit challenges, compliance risk, and variation in customer outcomes.
 
-Developed through analysis of 89,000+ consumer correspondences,
-the framework captures decision logic, governance controls,
-and validation practices required to reduce interpretation variability
-and create predictable operational outcomes.
+This framework was developed to standardize decision-making across unstructured communication channels by converting subjective interpretation into explicit decision logic, governance controls, and validation mechanisms.
+
+Developed through analysis of 89,000+ consumer correspondences and validated using 20,000 audited samples, the framework provides a structured approach for creating consistent, auditable, and repeatable operational decisions in restricted environments.
 
 ## At a Glance
 
 | Metric | Value |
 |----------|----------|
-| Communications Reviewed | 89,000+ |
+| Communications Analyzed | 89,000+ |
 | Audited Samples | 20,000 |
-| Categories | 45 |
-| Keywords | 692 |
-| Confidence Levels | 95%–99% |
+| Communication Channels | Letters, Emails, SMS |
+| Decision Categories | 45 |
+| Validation Confidence | 95%-99% |
+| Primary Objective | Decision Consistency |
 
 ---
 ## Framework Layers
 ![Framework Overview](architecture/01-enterprise-overview.png)
 
-### 1. Correspondence Intelligence
-Converts unstructured communications into structured signals and categories.
+### 1. Decision Standardization
 
-### 2. Decision Intelligence
-Applies business rules, decision hierarchies, and conflict resolution logic.
+Defines the rules, criteria, and governance required to ensure that similar communications receive consistent outcomes regardless of reviewer interpretation.
 
-### 3. Governance & Validation
-Measures consistency, confidence, and reliability through audits.
+### 2. Signal Interpretation
 
-### 4. Operational Outcomes
-Supports routing, escalation, compliance, and reporting.
+Transforms unstructured consumer communications into structured signals through category mapping, keyword identification, and communication analysis.
+
+### 3. Decision Logic
+
+Applies decision hierarchies, precedence rules, and conflict resolution logic to convert detected signals into consistent business outcomes.
+
+### 4. Governance & Validation
+
+Measures reliability, consistency, and auditability through sampling, confidence testing, variance analysis, and ongoing refinement.
+### 5. Operational Outcomes
+
+Supports routing, escalation, compliance activities, reporting, and future automation initiatives.
 
 ---
 ## The Challenge
@@ -47,7 +53,7 @@ Unstructured Communications
 
 ↓
 
-Correspondence Intelligence
+Signal Interpretation
 
 ↓
 
@@ -67,9 +73,9 @@ Consistent Business Decisions
 
 ---
 
-## Phase 1 – Correspondence Intelligence Layer
+## Phase 1 – Signal Interpretation Layer
 
-Phase 1 established the framework's correspondence intelligence capability through:
+Phase 1 established the framework's Signal Interpretation capability through:
 
 - Signal Detection
 - Category Mapping
@@ -83,7 +89,7 @@ Phase 1 established the framework's correspondence intelligence capability throu
 
 [Framework Architecture](../framework-architecture.md)
 
-[Correspondence Intelligence Layer](../Correspondence-Intelligence-Layer.md)
+[Signal Interpretation Layer](../Signal-Interpretation-Layer.md)
 
 [Decision Engine](../Decision_Engine.md)
 
