@@ -1,79 +1,68 @@
 # Validation and Governance
 ![Validation and Governance](architecture/04-governance-framework.png)
 
-A decision intelligence framework is only valuable if its outcomes remain consistent, measurable, and auditable over time.
+The Governance & Validation Layer ensures that decision outcomes remain reliable, explainable, and consistent across different communication types, reviewers, and operational scenarios.
 
-The Validation and Governance layer provides statistical assurance that decision outcomes remain stable across communication channels, categories, and review cycles.
+Its purpose is to verify that decisions are being applied consistently and to identify opportunities for continuous refinement.
 
 ---
 ## Why Governance Matters
 
-Operational decisions must be:
+Standardized decision logic only creates value when outcomes remain consistent over time.
 
-- Consistent
-- Explainable
-- Repeatable
-- Auditable
+Without governance controls:
 
-Without governance controls, identical communications may produce different outcomes depending on reviewer interpretation.
+- Decision drift can occur
+- Interpretation variability can re-emerge
+- Audit confidence may decline
+- Operational risk may increase
 
-The framework reduces this variability by validating outcomes through structured sampling and statistical review.
-
----
-## Population
-
-- 89,000+ Communications
-
-## Audited Samples
-
-- 20,000
-
-## Categories
-
-- 45
-
-## Keywords
-
-- 692
+The Governance & Validation Layer provides the oversight necessary to maintain consistency and reliability.
 
 ---
+## Core Activities
 
-## Confidence Levels
+### Audit Sampling
 
-### Priority Categories
+Statistically valid sample sizes are established to assess decision consistency across categories and communication types.
 
-99% Confidence
+### Confidence Assessment
 
-### Standard Categories
+Confidence levels are used to evaluate the reliability of audit findings and support evidence-based decision reviews.
 
-95% Confidence
+### Variance Analysis
+
+Measures variation across reviewed samples to identify categories that require further refinement.
+
+### Quality Assurance Reviews
+
+Independent reviews assess whether established decision logic is being applied consistently.
+
+### Continuous Improvement
+
+Findings from audits and reviews are used to refine signals, decision logic, and governance controls.
+
+---
+## Validation Framework
+
+Validation activities included:
+
+- 89,000+ communications analyzed
+- 20,000 audited samples
+- 45 decision scenarios
+- Multiple communication channels
+- Confidence levels ranging from 95% to 99%
+
+These activities were designed to measure consistency, reliability, and repeatability rather than simply classification performance.
+
+---
+## Core Insight
+
+Consistency cannot be assumed.
+
+Consistency must be measured.
+
+Validation transforms decision logic from a theoretical framework into an operationally reliable system.
 
 ---
 
-## Governance Metrics
-
-The framework used:
-
-- Mean
-- Standard Deviation
-- Coefficient of Variation
-
-to evaluate consistency across samples and input channels.
-
----
-## Governance Activities
-
-The framework incorporates:
-
-- Audit sampling
-- Confidence analysis
-- Variance monitoring
-- Outcome verification
-- Feedback-driven refinement
-
-These controls ensure that decision outcomes remain reliable as correspondence volumes and category definitions evolve over time.
-
----
-## Objective
-
-Measure whether classification outcomes remained stable and repeatable across multiple audits.
