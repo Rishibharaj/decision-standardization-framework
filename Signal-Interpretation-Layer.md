@@ -4,107 +4,96 @@
 
 ## Objective
 
-Create a repeatable and auditable method for converting unstructured consumer communications into consistent operational decisions within restricted environments using deterministic business rules and governance controls.
+The Signal Interpretation Layer identifies decision-relevant information contained within unstructured customer communications and converts it into structured inputs for decision evaluation.
+
+Its purpose is not to make decisions.
+
+Its purpose is to ensure that relevant signals are identified consistently before decision logic is applied.
 
 ---
-## At a Glance
+## Why Signal Interpretation Matters
 
-- 89,000+ communications reviewed
-- 20,000 audited samples
-- 45 decision categories
-- 692 optimized keywords
-- 95%-99% confidence validation
+Customer communications vary significantly in structure, length, and language.
 
----
-## Business Challenge
+Consumers may express the same concern through:
 
-Consumer-facing operations process large volumes of:
+- Formal letters
+- Multi-paragraph emails
+- Short SMS messages
 
-- Emails
-- SMS messages
-- Written correspondence
+Without a structured interpretation process, similar communications may be interpreted differently, increasing decision variability.
 
-Different reviewers may interpret the same communication differently, creating:
-
-- Quality variation
-- Compliance risk
-- Training dependency
-- Inconsistent outcomes
-
-The goal was to standardize decision-making while maintaining transparency and auditability.
+The Signal Interpretation Layer reduces this variability by converting unstructured inputs into standardized decision signals.
 
 ---
+## Core Capabilities
 
-## Scope
+The layer performs the following functions:
 
-### Communication Types
+### Signal Detection
 
-- Written Correspondence
-- Email Correspondence
-- SMS Correspondence
+Identifies decision-relevant content within communications.
 
-### Implementation Scale
+### Signal Classification
 
-- 45 Categories
-- 692 Optimized Keywords
-- 89,000+ Communications
-- 20,000 Audited Samples
+Maps detected signals to predefined business scenarios.
 
----
+### Category Mapping
 
-## Framework Architecture
+Groups similar consumer concerns into standardized categories.
 
-The framework follows four decision layers.
+### Signal Enrichment
 
-### Layer 1 – Correspondence Signal Identification
+Captures supporting context required for downstream decision evaluation.
 
-Relevant consumer signals are identified within communications using predefined keyword structures and category mappings.
+### Structured Output Generation
 
-Example:
-
-Keyword:
-
-Fraud
-
-Mapped Category:
-
-Fraud Concern
+Produces consistent inputs for the Decision Logic Layer.
 
 ---
 
-### Layer 2 – Category Detection
+## Example
 
-Keywords found within a communication activate one or more categories.
+Consumer Communication:
 
-Multiple categories may be activated simultaneously.
+"I have already provided the requested documents and do not want further calls regarding this matter."
+
+Detected Signals:
+
+- Documentation Submission
+- Contact Restriction
+
+Structured Output:
+
+- Documentation Scenario
+- Communication Preference Scenario
+
+The resulting signals are then passed to the Decision Logic Layer for precedence evaluation and outcome selection.
+
+---
+## Detection Methods
+
+Signal identification may be supported through:
+
+- Keyword matching
+- Phrase detection
+- Pattern recognition
+- Business-defined classification criteria
+
+In Phase 1, structured keyword mapping was used as the primary mechanism for signal detection due to governance, transparency, and tooling constraints.
+
+This approach provided a reliable and auditable foundation for decision standardization.
+
+---
+## Core Insight
+
+Signal Interpretation does not determine outcomes.
+
+It ensures that decision-relevant information is identified consistently.
+
+Consistent signal identification enables consistent decision-making.
 
 ---
 
-### Layer 3 – Decision Resolution
-
-When multiple business signals are detected, decision hierarchies determine which outcome best represents the consumer's intent and operational requirement.
-
-#### Decision Resolution Example
-
-Consumer Statement:
-
-"Do not call me and do not contact me again."
-
-Detected Categories:
-
-- Call Suppression
-- Full Contact Restriction
-
-Decision Hierarchy:
-
-Full Contact Restriction supersedes Call Suppression because it represents a broader withdrawal of communication consent.
-
-Final Outcome:
-
-Non-Engagement Directive
-
----
-
-### Layer 4 – Decision Outcome
 
 The highest-precedence category becomes the final outcome.
