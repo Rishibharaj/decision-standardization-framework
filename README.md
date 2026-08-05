@@ -1,8 +1,12 @@
-# Decision Intelligence Framework
+# Decision Standardization Framework
 
-An enterprise decision intelligence framework designed to transform unstructured customer communications into consistent, auditable operational decisions.
+A framework for transforming unstructured customer communications into
+consistent, auditable business decisions.
 
-Built and validated using 89,000+ consumer correspondences, the framework combines correspondence intelligence, decision rules, governance controls, and statistical validation to improve consistency, transparency, and operational effectiveness in restricted environments.
+Developed through analysis of 89,000+ consumer correspondences,
+the framework captures decision logic, governance controls,
+and validation practices required to reduce interpretation variability
+and create predictable operational outcomes.
 
 ## At a Glance
 
