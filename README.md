@@ -20,7 +20,7 @@ The challenge is ensuring that the same decision is reached regardless of who re
 
 Standardize decisions before attempting automation.
 
-The framework converts unstructured customer communications into consistent and auditable business outcomes by transforming subjective interpretation into explicit decision logic.
+The framework transforms unstructured customer communications into consistent and auditable business outcomes by converting subjective interpretation into explicit decision logic.
 
 ```text
 Customer Communication
@@ -65,7 +65,7 @@ The framework was developed and validated using:
 - 20,000 audited samples
 - 45 standardized decision scenarios
 - Multiple communication channels (Letters, Emails, SMS)
-- 95% to 99% validation confidence levels
+- Validation confidence levels ranging from 95% to 99%
 
 ---
 
@@ -76,8 +76,8 @@ A standardized decision framework can help organizations:
 - Reduce interpretation variability
 - Improve auditability
 - Strengthen quality assurance controls
-- Support operational consistency
-- Create readiness for future automation
+- Accelerate onboarding through consistent decision criteria
+- Create a foundation for future automation
 
 ---
 
@@ -91,7 +91,7 @@ Before automation becomes possible, decisions must become predictable.
 
 ### Framework Architecture
 
-High-level overview of the framework structure and flow.
+Overview of the framework structure and decision flow.
 
 ### Signal Interpretation
 
@@ -107,11 +107,11 @@ How consistency, reliability, and repeatability are measured and maintained.
 
 ### Case Study
 
-Real-world application of the framework across large-scale customer communications.
+Application of the framework across large-scale customer communications.
 
 ### Supporting Tooling
 
-Examples of analytical tools used to support signal discovery, refinement, and framework maintenance.
+Examples of tools used to support signal discovery, refinement, and framework maintenance.
 
 ---
 
