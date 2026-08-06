@@ -73,4 +73,4 @@ Automatically excludes:
 Developed in VBA and designed to operate within Microsoft Excel environments where external tooling may be restricted.
 
 ## Source Code
-The VBA source code is available here: Anchor-Driven-Phrase-Expansion.bas
+The VBA source code is available here: ![Anchor-Driven-Phrase-Expansion](Anchor-Driven-Phrase-Expansion.bas)
