@@ -11,14 +11,13 @@ This process involves refining and strategically selecting search terms to enhan
 
 
 Visual Example of Keyword Heat Map:
-![](architecture/keyword-heat-map.png)
- 	Keyword Heat Map visually represents the frequency and distribution of keywords across a dataset, highlighting areas of high relevance or concentration to aid in pattern recognition and content analysis.
 
+![](/architecture/keyword-heat-map.png)
+ 	
 Visual Example of Keyword Identification Sheet:
-![](architecture/keyword-identification-sheet.png)
- 	For long emails, it was hard to tell which keyword triggered the category. So, a simple sheet was created to show where each keyword appears in the message.
 
-
+![](/architecture/keyword-identification-sheet.png)
+ 	
 
 Excel Tip:
 1.	Embedding sample size calculations and corresponding audit scores within the same worksheet can significantly impact Excel's performance. To maintain efficiency and clarity, it is recommended to separate audit results into distinct sheets. 
