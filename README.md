@@ -61,7 +61,7 @@ Before automation becomes possible, decisions must become predictable.
 1. **[Framework Architecture](framework-architecture.md)** - Overview of the framework structure and decision flow.
 2. **[Signal Interpretation](Signal-Interpretation-Layer.md)** - How decision-relevant signals are identified from unstructured communications.
 3. **[Validation & Governance](Validation-and-Governance.md)** - How consistency, reliability, and repeatability are measured and maintained.
-4. **Case-Study-Achieving-Consistent-Decisions.md** - Application of the framework across large-scale customer communications.
+4. **[Case-Study](Case-Study)** - Application of the framework across large-scale customer communications.
 5. **[Supporting Tools](supporting-tooling/README.md)** - Examples of tools used to support signal discovery, refinement, and framework maintenance.
 
 ## Author
