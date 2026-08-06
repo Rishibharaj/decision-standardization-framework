@@ -1,24 +1,44 @@
-## Signal Optimization Process	
+**Signal Refinement Process**
 
-This process involves refining and strategically selecting search terms to enhance visibility, relevance, and ranking in digital content. 
- 
-1. Signal Identification & Sorting - Initial keyword list sorted by frequency of occurrence
-2. Heatmap Visualization - Used to visualize keyword frequency and distribution
-3. Weight Distribution Analysis - Top keywords initially carried 70–80% of identification weight
-4. Contextual Expansion - Added synonyms and contextual variations
-5. Keyword Replacement & Balancing - Adjusted top keywords to carry ~30% weight, supported by secondary terms
-6. Final Audit - Re-audited categories for balance and confidence
+This process was used to improve signal coverage, identify contextual variations, and enhance consistency within the Signal Interpretation Layer.
 
+1. **Signal Identification & Sorting**  
+   Initial signal indicators were identified and ranked by frequency of occurrence.
 
-Visual Example of Keyword Heat Map:
+2. **Distribution Analysis**  
+   Heat map visualization was used to assess signal concentration and distribution.
+
+3. **Weight Distribution Assessment**  
+   High-frequency indicators initially represented 70% to 80% of signal identification weight.
+
+4. **Context Expansion**  
+   Synonyms, related phrases, and contextual variations were introduced to improve signal coverage.
+
+5. **Signal Balancing**  
+   Dominant indicators were reduced to approximately 30% weighting and supported by secondary indicators to improve consistency.
+
+6. **Validation Audit**  
+   Standardized decision scenarios were re-audited to assess balance, consistency, and confidence levels.
+
+**Visual Example: Signal Distribution Heat Map**
 
 ![](/architecture/keyword-heat-map.png)
- 	
-Visual Example of Keyword Identification Sheet:
+
+**Visual Example: Signal Identification Worksheet**
 
 ![](/architecture/keyword-identification-sheet.png)
- 	
 
-Excel Tip:
-1.	Embedding sample size calculations and corresponding audit scores within the same worksheet can significantly impact Excel's performance. To maintain efficiency and clarity, it is recommended to separate audit results into distinct sheets. 
-2.	Additionally, enabling partial or manual calculation modes allows Excel to compute formulas only after task completion, reducing processing overhead during data entry and analysis
+**Implementation Notes**
+
+- Embedding sample-size calculations and audit-scoring formulas within the same worksheet can significantly impact Excel performance. Separating calculations into dedicated worksheets improves efficiency and maintainability.
+- Using manual or partial calculation modes allows formulas to execute only when required, reducing processing overhead during large-scale analysis and auditing activities.
+
+**Outcome**
+
+The process improved:
+
+- Signal coverage
+- Context recognition
+- Indicator balance
+- Decision consistency
+- Audit confidence
