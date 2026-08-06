@@ -1,166 +1,124 @@
 # Decision Standardization Framework
 
-Customer-facing operations often depend on human interpretation when reviewing consumer communications. Different reviewers may reach different conclusions from the same correspondence, creating inconsistency, audit challenges, compliance risk, and variation in customer outcomes.
+## The Problem
 
-This framework was developed to standardize decision-making across unstructured communication channels by converting subjective interpretation into explicit decision logic, governance controls, and validation mechanisms.
+Customer communications are often reviewed and interpreted by individual employees. When similar communications are interpreted differently, organizations may experience:
 
-Developed through analysis of 89,000+ consumer correspondences and validated using 20,000 audited samples, the framework provides a structured approach for reducing interpretation variability and creating consistent, auditable, and repeatable operational decisions in restricted environments.
-
-## At a Glance
-
-| Metric | Value |
-|----------|----------|
-| Communications Analyzed | 89,000+ |
-| Audited Samples | 20,000 |
-| Communication Channels | Letters, Emails, SMS |
-| Standardized Decision Scenarios | 45 |
-| Validation Confidence | 95%-99% |
-| Primary Objective | Decision Consistency |
-
----
-## Framework Layers
-![Framework Overview](architecture/01-enterprise-overview.png)
-
-### 1. Decision Standardization
-
-Defines the rules, criteria, and governance required to ensure that similar communications receive consistent outcomes regardless of reviewer interpretation.
-
-### 2. Signal Interpretation
-
-Transforms unstructured consumer communications into structured signals through category mapping, keyword identification, and communication analysis.
-
-### 3. Decision Logic
-
-Applies decision hierarchies, precedence rules, and conflict resolution logic to convert detected signals into consistent business outcomes.
-
-### 4. Governance & Validation
-
-Measures reliability, consistency, and auditability through sampling, confidence testing, variance analysis, and ongoing refinement.
-### 5. Operational Outcomes
-
-Supports routing, escalation, compliance activities, reporting, and future automation initiatives.
-
----
-## The Challenge
-
-Consumer communications arrive in many forms, including formal letters, detailed emails, and short SMS messages. Although customers may be expressing the same underlying concern, differences in language, context, and communication style can lead to different interpretations.
-
-As a result, operational decisions may become dependent on individual reviewer judgement rather than standardized criteria, creating:
-
-- Interpretation variability
 - Inconsistent customer outcomes
-- Quality assurance challenges
 - Increased audit effort
-- Compliance and governance risks
+- Quality assurance challenges
+- Compliance risk
+- Reduced automation potential
 
-The core challenge was not processing communications.
+The challenge is not processing communications.
 
-The core challenge was ensuring that the same decision would be reached regardless of who reviewed the communication.
+The challenge is ensuring that the same decision is reached regardless of who reviews the communication.
 
 ---
 
-## Framework Overview
+## The Idea
 
-Unstructured Communications
-↓
-Signal Interpretation
-↓
+Standardize decisions before attempting automation.
+
+The framework converts unstructured customer communications into consistent and auditable business outcomes by transforming subjective interpretation into explicit decision logic.
+
+```text
+Customer Communication
+          ↓
+Decision Signals
+          ↓
 Decision Logic
-↓
+          ↓
 Governance & Validation
-↓
-Operational Outcomes
-↓
-Consistent Business Decisions
-
----
-
-## Phase 1 – Signal Interpretation
-
-Phase 1 established the framework's ability to identify and structure decision-relevant signals from unstructured communications.
-
-Capabilities included:
-
-- Signal Detection
-- Category Mapping
-- Decision Rule Support
-- Outcome Determination
-- Signal Optimization
-- Statistical Validation
-
-
-📖 Explore the Framework
-
-[Framework Architecture](../framework-architecture.md)
-
-[Signal Interpretation Layer](../Signal-Interpretation-Layer.md)
-
-[Decision Logic Layer](../Decision-Logic-Layer.md)
-
-[Validation and Governance](../Validation-and-Governance.md)
-
-[Case Study Correspondence Classification](../Case Study – Achieving Consistent Decisions from Unstructured Communications.md)
-
-
----
-
-## Key Design Principles
-
-- Explainability
-- Auditability
-- Consistency
-- Governance
-
----
-
-## Framework Principle
-
-Operational automation is only effective when decision-making is consistent.
-
-Customer communications often contain varying levels of detail, context, and language. Before automation can be introduced, the underlying decision process must first be standardized, validated, and governed.
-
-This framework was built on a simple principle:
-
-Messy Inputs
-↓
-Structured Signals
-↓
-Standardized Decision Logic
-↓
+          ↓
 Consistent Outcomes
-↓
-Automation Readiness
+```
 
 ---
-## Organizational Benefits
 
-- Reduced interpretation variability
-- Improved auditability
-- Stronger quality assurance controls
-- Faster onboarding through standardized decision logic
-- Increased readiness for future automation
+## Example
 
----
-## Future Evolution
+### Customer Communication
 
-Phase 2 – Intent Detection
+> "Please do not contact me directly. My attorney is representing me regarding this matter."
 
-Expanding beyond keyword detection to evaluate context, negations, modifiers, and semantic intent.
+### Signals Identified
 
----
-## About This Framework
+- Attorney Representation
+- Communication Restriction
 
-This framework was developed to address a common operational challenge: ensuring consistent business decisions from unstructured customer communications.
+### Decision Logic
 
-The objective was not to automate correspondence review, but to first standardize the decision-making process through explicit rules, governance controls, validation methods, and outcome hierarchies.
+Communication restrictions apply through legal representation channels rather than directly to the consumer.
 
-The resulting framework demonstrates how predictable decisions can be established in restricted environments before introducing large-scale automation initiatives.
+### Outcome
+
+Consistent handling regardless of reviewer interpretation.
 
 ---
+
+## Scale
+
+The framework was developed and validated using:
+
+- 89,000+ customer communications
+- 20,000 audited samples
+- 45 standardized decision scenarios
+- Multiple communication channels (Letters, Emails, SMS)
+- 95% to 99% validation confidence levels
+
+---
+
+## Why It Matters
+
+A standardized decision framework can help organizations:
+
+- Reduce interpretation variability
+- Improve auditability
+- Strengthen quality assurance controls
+- Support operational consistency
+- Create readiness for future automation
+
+---
+
+## Core Insight
+
+Before automation becomes possible, decisions must become predictable.
+
+---
+
+## Repository Contents
+
+### Framework Architecture
+
+High-level overview of the framework structure and flow.
+
+### Signal Interpretation
+
+How decision-relevant signals are identified from unstructured communications.
+
+### Decision Logic
+
+How business rules, precedence logic, and outcome hierarchies produce consistent outcomes.
+
+### Validation & Governance
+
+How consistency, reliability, and repeatability are measured and maintained.
+
+### Case Study
+
+Real-world application of the framework across large-scale customer communications.
+
+### Supporting Tooling
+
+Examples of analytical tools used to support signal discovery, refinement, and framework maintenance.
+
+---
+
 ## Author
 
 **Rishi Bharaj**
 
 PMP® | Oracle GenAI Professional | ISO 9001 Lead Auditor
 
-Experienced in operational transformation, quality governance, decision standardization, and process improvement initiatives focused on creating scalable, auditable, and consistent business outcomes.
+Operations Transformation | Decision Standardization | Governance | Process Improvement
