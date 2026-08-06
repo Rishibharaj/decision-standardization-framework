@@ -14,6 +14,8 @@ The challenge is ensuring that the same decision is reached regardless of who re
 ## The Idea
 Standardize decisions before attempting automation.
 The framework transforms unstructured customer communications into consistent and auditable business outcomes by converting subjective interpretation into explicit decision logic.
+
+![](architecture/decision-standardization-framework.png)
 ```text
 Customer Communication
           ↓
