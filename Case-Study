@@ -2,7 +2,7 @@
 
 ## Business Context
 
-Consumer-facing operations were reviewing more than 89,000 customer communications across multiple channels, including letters, emails, and SMS messages.
+Consumer-facing operations reviewed more than 89,000 customer communications across multiple channels, including letters, emails, and SMS messages.
 
 The objective was to ensure that similar customer concerns resulted in consistent operational outcomes regardless of communication format or reviewer interpretation.
 
@@ -20,9 +20,7 @@ The challenge was ensuring that the same decision would be reached consistently 
 
 ## Framework Applied
 
-Decision Standardization Framework
-
-The framework combined:
+The Decision Standardization Framework combined:
 
 - Signal Interpretation
 - Decision Logic
@@ -40,7 +38,7 @@ to transform unstructured communications into consistent business outcomes.
 - 20,000 audited samples
 - 45 standardized decision scenarios
 - Multiple communication channels
-- Validation confidence levels of 95%-99%
+- Validation confidence levels ranging from 95% to 99%
 
 ---
 
