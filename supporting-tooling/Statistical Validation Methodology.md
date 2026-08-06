@@ -10,4 +10,6 @@ Methods included:
 - Standard deviation measurement
 - Coefficient of Variation (CV) assessment
 
+![](/architecture/sampling-methodology.png)
+
 The objective was to measure consistency across decision scenarios and communication channels.
