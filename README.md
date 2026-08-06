@@ -1,5 +1,4 @@
 # Decision Standardization Framework
-
 ## The Problem
 Customer communications are often reviewed and interpreted by individual employees. When similar communications are interpreted differently, organizations may experience:
 - Inconsistent customer outcomes
@@ -9,9 +8,9 @@ Customer communications are often reviewed and interpreted by individual employe
 - Reduced automation potential
 
 The challenge is not processing communications.
+
 The challenge is ensuring that the same decision is reached regardless of who reviews the communication.
 
----
 ## The Idea
 Standardize decisions before attempting automation.
 The framework transforms unstructured customer communications into consistent and auditable business outcomes by converting subjective interpretation into explicit decision logic.
@@ -26,7 +25,6 @@ Governance & Validation
           ↓
 Consistent Outcomes
 ```
----
 
 ## Example
 ### Customer Communication
@@ -39,8 +37,6 @@ Communication restrictions apply through legal representation channels rather th
 ### Outcome
 Consistent handling regardless of reviewer interpretation.
 
----
-
 ## Scale
 The framework was developed and validated using:
 - 89,000+ customer communications
@@ -48,7 +44,6 @@ The framework was developed and validated using:
 - 45 standardized decision scenarios
 - Multiple communication channels (Letters, Emails, SMS)
 - Validation confidence levels ranging from 95% to 99%
----
 
 ## Why It Matters
 A standardized decision framework can help organizations:
@@ -57,27 +52,18 @@ A standardized decision framework can help organizations:
 - Strengthen quality assurance controls
 - Accelerate onboarding through consistent decision criteria
 - Create a foundation for future automation
----
 
 ## Core Insight
 Before automation becomes possible, decisions must become predictable.
 
----
-## Repository Contents
-### Framework Architecture
-Overview of the framework structure and decision flow.
-### Signal Interpretation
-How decision-relevant signals are identified from unstructured communications.
-### Decision Logic
-How business rules, precedence logic, and outcome hierarchies produce consistent outcomes.
-### Validation & Governance
-How consistency, reliability, and repeatability are measured and maintained.
-### Case Study
-Application of the framework across large-scale customer communications.
-### Supporting Tooling
-Examples of tools used to support signal discovery, refinement, and framework maintenance.
+## Explore the Framework
 
----
+- **Framework Architecture** - Overview of the framework structure and decision flow.
+- **Signal Interpretation** - How decision-relevant signals are identified from unstructured communications.
+- **Decision Logic** - How business rules, precedence logic, and outcome hierarchies produce consistent outcomes.
+- **Validation & Governance** - How consistency, reliability, and repeatability are measured and maintained.
+- **Case Study** - Application of the framework across large-scale customer communications.
+- **Supporting Tooling** - Examples of tools used to support signal discovery, refinement, and framework maintenance.
 
 ## Author
 **Rishi Bharaj**
