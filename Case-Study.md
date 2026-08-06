@@ -31,7 +31,28 @@ The Decision Standardization Framework combined:
 to transform unstructured communications into consistent business outcomes.
 
 ---
+## Example
 
+### Consumer Communication
+
+"I do not want phone calls and do not contact me again."
+
+### Signals Identified
+
+- Call Suppression
+- Full Contact Restriction
+
+### Precedence Rule
+
+Where multiple signals are identified, precedence rules determine which outcome best represents the consumer's request.
+
+In this scenario, **Full Contact Restriction** supersedes **Call Suppression** because it represents the broader consumer instruction.
+
+### Outcome
+
+Full Contact Restriction
+
+---
 ## Scope
 
 - 89,000+ communications analyzed
