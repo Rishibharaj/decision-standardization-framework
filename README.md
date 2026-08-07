@@ -20,11 +20,11 @@ The framework transforms unstructured customer communications into consistent an
 ### Framework Summary
 
 | Layer | Input | Processing | Output |
-|---------|---------|---------|---------|
-| Signal Interpretation | Customer Communications | Signal Detection, Categorization, Interpretation | Structured Signals |
-| Decision Logic | Structured Signals | Rule Application, Prioritization, Scenario Mapping | Recommended Decision |
-| Governance & Validation | Recommended Decision | Validation, Variance Analysis, Audit Controls | Governed Decision |
-| Operational Outcomes | Governed Decision | Routing, Escalation, Reporting | Consistent Business Outcome |
+|----------|----------|----------|----------|
+| Signal Interpretation | Customer Communications | Signal Detection • Categorization • Interpretation | Structured Signals |
+| Decision Logic | Structured Signals | Rule Application • Prioritization • Scenario Mapping | Recommended Decision |
+| Governance & Validation | Recommended Decision | Validation • Variance Analysis • Audit Controls | Governed Decision |
+| Operational Outcomes | Governed Decision | Routing • Escalation • Reporting | Consistent Business Outcome |
 
 ### End-to-End Flow
 
