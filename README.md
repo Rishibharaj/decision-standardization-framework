@@ -42,10 +42,10 @@ Customer Communication
 
 | Standard Scenario | Signal Precedence Scenario |
 |----------|----------|
-| **Customer Communication**<br><br>"Please do not contact me directly. My attorney is representing me regarding this matter." | **Customer Communication**<br>"I do not want phone calls and do not contact me again." |
-| **Signals Identified**<br><br>• Attorney Representation<br>• Communication Restriction | **Signals Identified**<br><br>• Call Suppression<br>• Full Contact Restriction |
-| **Decision Logic**<br><br>Communication restrictions apply through legal representation channels rather than directly to the consumer. | **Precedence Rule**<br><br>Where multiple signals are identified, precedence rules determine which outcome best represents the consumer's request.<br><br>Full Contact Restriction supersedes Call Suppression because it represents the broader instruction. |
-| **Outcome**<br><br>Consistent handling regardless of reviewer interpretation. | **Outcome**<br><br>Full Contact Restriction |
+| **Customer Communication**<br>"Please do not contact me directly. My attorney is representing me regarding this matter." | **Customer Communication**<br>"I do not want phone calls and do not contact me again." |
+| **Signals Identified**<br>• Attorney Representation<br>• Communication Restriction | **Signals Identified**<br>• Call Suppression<br>• Full Contact Restriction |
+| **Decision Logic**<br>Communication restrictions apply through legal representation channels rather than directly to the consumer. | **Precedence Rule**<br>Where multiple signals are identified, precedence rules determine which outcome best represents the consumer's request.<br>Full Contact Restriction supersedes Call Suppression because it represents the broader instruction. |
+| **Outcome**<br>Consistent handling regardless of reviewer interpretation. | **Outcome**<br>Full Contact Restriction |
 
 
 ## Scale
