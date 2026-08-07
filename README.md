@@ -16,17 +16,7 @@ Standardize decisions before attempting automation.
 The framework transforms unstructured customer communications into consistent and auditable business outcomes by converting subjective interpretation into explicit decision logic.
 
 ![](architecture/decision-standardization-framework.png)
-```text
-Customer Communication
-          ↓
-Decision Signals
-          ↓
-Decision Logic
-          ↓
-Governance & Validation
-          ↓
-Consistent Outcomes
-```
+
 
 ## Example
 ### Customer Communication
