@@ -38,6 +38,16 @@ Customer Communication
 
 ```
 
+## Impact
+
+| Metric | Value |
+|----------|----------|
+| Customer Communications Analyzed | 89,000+ |
+| Audited Samples | 20,000 |
+| Standardized Decision Scenarios | 45 |
+| Communication Channels | Letters, Emails, SMS |
+| Validation Confidence | 95% - 99% |
+
 ## Framework Examples
 
 | Standard Scenario | Signal Precedence Scenario |
@@ -47,16 +57,6 @@ Customer Communication
 | **Decision Logic**<br>Communication restrictions apply through legal representation channels rather than directly to the consumer. | **Precedence Rule**<br>Where multiple signals are identified, precedence rules determine which outcome best represents the consumer's request.<br>Full Contact Restriction supersedes Call Suppression because it represents the broader instruction. |
 | **Outcome**<br>Consistent handling regardless of reviewer interpretation. | **Outcome**<br>Full Contact Restriction |
 
-
-## Scale
-
-| Metric | Value |
-|----------|----------|
-| Customer Communications Analyzed | 89,000+ |
-| Audited Samples | 20,000 |
-| Standardized Decision Scenarios | 45 |
-| Communication Channels | Letters, Emails, SMS |
-| Validation Confidence | 95% - 99% |
 
 ## Why It Matters
 A standardized decision framework can help organizations:
