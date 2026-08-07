@@ -36,24 +36,27 @@ Customer Communication
 → Operational Outcome
 → Consistent Business Decision
 
-## Example
-### Customer Communication
-> "Please do not contact me directly. My attorney is representing me regarding this matter."
-### Signals Identified
-- Attorney Representation
-- Communication Restriction
-### Decision Logic
-Communication restrictions apply through legal representation channels rather than directly to the consumer.
-### Outcome
-Consistent handling regardless of reviewer interpretation.
+```
+
+## Framework Examples
+
+| Standard Scenario | Signal Precedence Scenario |
+|----------|----------|
+| **Customer Communication**<br><br>"Please do not contact me directly. My attorney is representing me regarding this matter." | **Customer Communication**<br><br>"I do not want phone calls and do not contact me again." |
+| **Signals Identified**<br><br>• Attorney Representation<br>• Communication Restriction | **Signals Identified**<br><br>• Call Suppression<br>• Full Contact Restriction |
+| **Decision Logic**<br><br>Communication restrictions apply through legal representation channels rather than directly to the consumer. | **Precedence Rule**<br><br>Where multiple signals are identified, precedence rules determine which outcome best represents the consumer's request.<br><br>Full Contact Restriction supersedes Call Suppression because it represents the broader instruction. |
+| **Outcome**<br><br>Consistent handling regardless of reviewer interpretation. | **Outcome**<br><br>Full Contact Restriction |
+
 
 ## Scale
-The framework was developed and validated using:
-- 89,000+ customer communications
-- 20,000 audited samples
-- 45 standardized decision scenarios
-- Multiple communication channels (Letters, Emails, SMS)
-- Validation confidence levels ranging from 95% to 99%
+
+| Metric | Value |
+|----------|----------|
+| Customer Communications Analyzed | 89,000+ |
+| Audited Samples | 20,000 |
+| Standardized Decision Scenarios | 45 |
+| Communication Channels | Letters, Emails, SMS |
+| Validation Confidence | 95% - 99% |
 
 ## Why It Matters
 A standardized decision framework can help organizations:
@@ -81,7 +84,7 @@ Operations Transformation | Decision Standardization | Governance | Process Impr
 
 ## Related Repositories
 
-- 📄 Document Intelligence Pipeline
-- 🔍 Search & Match Intelligence Framework
-- 🧠 Knowledge Explorer
-- 🤖 Reinforcement Learning Reward Shaping
+- 📄 [Document Intelligence Pipeline](https://github.com/Rishibharaj/document-intelligence-pipeline)
+- 🔍 [Search & Match Intelligence Framework](https://github.com/Rishibharaj/search-match-intelligence-framework)
+- 🧠 [Knowledge Explorer](https://github.com/Rishibharaj/Knowledge-Explorer)
+- 🤖 [Reinforcement Learning Reward Shaping](https://github.com/Rishibharaj)
