@@ -17,7 +17,7 @@ The framework transforms unstructured customer communications into consistent an
 
 ![](architecture/decision-standardization-framework.png)
 
-## Framework Summary
+### Framework Summary
 
 | Layer | Input | Processing | Output |
 |---------|---------|---------|---------|
@@ -26,7 +26,7 @@ The framework transforms unstructured customer communications into consistent an
 | Governance & Validation | Recommended Decision | Validation, Variance Analysis, Audit Controls | Governed Decision |
 | Operational Outcomes | Governed Decision | Routing, Escalation, Reporting | Consistent Business Outcome |
 
-## End-to-End Flow
+### End-to-End Flow
 
 ```text
 Customer Communication
