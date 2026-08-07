@@ -17,6 +17,24 @@ The framework transforms unstructured customer communications into consistent an
 
 ![](architecture/decision-standardization-framework.png)
 
+## Framework Summary
+
+| Layer | Input | Processing | Output |
+|---------|---------|---------|---------|
+| Signal Interpretation | Customer Communications | Signal Detection, Categorization, Interpretation | Structured Signals |
+| Decision Logic | Structured Signals | Rule Application, Prioritization, Scenario Mapping | Recommended Decision |
+| Governance & Validation | Recommended Decision | Validation, Variance Analysis, Audit Controls | Governed Decision |
+| Operational Outcomes | Governed Decision | Routing, Escalation, Reporting | Consistent Business Outcome |
+
+## End-to-End Flow
+
+```text
+Customer Communication
+→ Signal Interpretation
+→ Decision Logic
+→ Governance & Validation
+→ Operational Outcome
+→ Consistent Business Decision
 
 ## Example
 ### Customer Communication
@@ -59,5 +77,11 @@ Before automation becomes possible, decisions must become predictable.
 ## Author
 **Rishi Bharaj**
 PMP® | Oracle GenAI Professional | ISO 9001 Lead Auditor
-
 Operations Transformation | Decision Standardization | Governance | Process Improvement
+
+## Related Repositories
+
+- 📄 Document Intelligence Pipeline
+- 🔍 Search & Match Intelligence Framework
+- 🧠 Knowledge Explorer
+- 🤖 Reinforcement Learning Reward Shaping
